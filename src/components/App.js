@@ -8,8 +8,8 @@ class App extends Component {
         <div className="App">
           <TopNavBar/>
           <Main/>
-          <p>
-               </p>
+          <br />
+          <br />
         </div>
     );
   }

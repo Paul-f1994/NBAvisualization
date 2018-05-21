@@ -1,7 +1,6 @@
 .App-logo {
-    padding-left: 40px;
+    padding-left: 10px;
     height: 35px;
-    float: left;
 }
 
 .App-header {
@@ -12,10 +11,7 @@
     align-items: center;
 }
 
-.App-title {
-    font-size: 1.5em;
-}
-
 .Author {
     color: orange;
+    flex: 0 1 auto;
 }
